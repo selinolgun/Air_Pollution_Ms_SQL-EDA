@@ -1,0 +1,81 @@
+2022'de ortalama hava kirliliği 114'tür.
+2022'de ortalama hava kirliliğini aşan şehir sayısı 2172'dir.
+2021'de ortalama hava kirliliği 126'tür.
+2021'de ortalama hava kirliliğini aşan şehir sayısı 2058'dir.
+2020'de ortalama hava kirliliği 129'tür.
+2020'de ortalama hava kirliliğini aşan şehir sayısı 1176'dir.
+2019'da ortalama hava kirliliği 131'tür.
+2019'da ortalama hava kirliliğini aşan şehir sayısı 1035'dir.
+2019'dan 2022'ye ilerlerken ortalama hava kirliliği git gide düşmektedir.
+Ancak ortalama hava kirliliğini aşan şehir sayısı git gide artmaktadır.
+2022'nin Ocak ayında ortalama hava kirliliği 154'tür.
+2022'nin Ocak ayında ortalama hava kirliliğini aşan şehir sayısı 1966'dır.
+2022'nin Şubat ayında ortalama hava kirliliği 122'tür.
+2022'nin Şubat ayında ortalama hava kirliliğini aşan şehir sayısı 1977'dır.
+2022'nin Mart ayında ortalama hava kirliliği 130'tür.
+2022'nin Mart ayında ortalama hava kirliliğini aşan şehir sayısı 2467'dır.
+2022'nin Nisan ayında ortalama hava kirliliği 105'tür.
+2022'nin Nisan ayında ortalama hava kirliliğini aşan şehir sayısı 2217'dır.
+2022'nin Mayıs ayında ortalama hava kirliliği 96'tür.
+2022'nin Mayıs ayında ortalama hava kirliliğini aşan şehir sayısı 2723'dır.
+2022'nin Haziran ayında ortalama hava kirliliği 89'tür.
+2022'nin Haziran ayında ortalama hava kirliliğini aşan şehir sayısı 2895'dır.
+2022'nin Temmuz ayında ortalama hava kirliliği 87'tür.
+2022'nin Temmuz ayında ortalama hava kirliliğini aşan şehir sayısı 2874'dır.
+2022'nin Ağustos ayında ortalama hava kirliliği 90'tür.
+2022'nin Ağustos ayında ortalama hava kirliliğini aşan şehir sayısı 2921'dır.
+2022'nin Eylül ayında ortalama hava kirliliği 101'tür.
+2022'nin Eylül ayında ortalama hava kirliliğini aşan şehir sayısı 2303'dır.
+2022'nin Ekim ayında ortalama hava kirliliği 115'tür.
+2022'nin Ekim ayında ortalama hava kirliliğini aşan şehir sayısı 2371'dır.
+2022'nin Kasım ayında ortalama hava kirliliği 132'tür.
+2022'nin Kasım ayında ortalama hava kirliliğini aşan şehir sayısı 2124'dır.
+2022'nin Aralık ayında ortalama hava kirliliği 146'tür.
+2022'nin Aralık ayında ortalama hava kirliliğini aşan şehir sayısı 2119'dır.
+Kış aylarında şehirlerdeki hava kirliliği ortalaması yaza göre daha yüksektir.
+USA'nin şehirlerinde ortalama hava kirliliği 71'dir.
+Japonya'nin şehirlerinde ortalama hava kirliliği 82'dir.
+Çin'nin şehirlerinde ortalama hava kirliliği 263'dir.
+Kanada'nin şehirlerinde ortalama hava kirliliği 62'dir.
+Hindistan'nin şehirlerinde ortalama hava kirliliği 393'dir.
+Almanya'nin şehirlerinde ortalama hava kirliliği 87'dir.
+İngiltere'nin şehirlerinde ortalama hava kirliliği 72'dir.
+Avustralya'nin şehirlerinde ortalama hava kirliliği 36'dir.
+İspanya'nin şehirlerinde ortalama hava kirliliği 88'dir.
+Tayland'nin şehirlerinde ortalama hava kirliliği 177'dir.
+2022 yılında en yüksek hava kirliliği ortalamasına sahip ülke Çad'dır.
+2022 yılında en düşük hava kirliliği ortalamasına sahip ülke Bermuda'dır.
+2021 yılında en yüksek hava kirliliği ortalamasına sahip ülke Bangladeş'dır.
+2021 yılında en düşük hava kirliliği ortalamasına sahip ülke Letonya'dır.
+2020 yılında en yüksek hava kirliliği ortalamasına sahip ülke Bangladeş'dır.
+2020 yılında en düşük hava kirliliği ortalamasına sahip ülke Angola'dır.
+2019 yılında en yüksek hava kirliliği ortalamasına sahip ülke Bangladeş'dır.
+2019 yılında en düşük hava kirliliği ortalamasına sahip ülke Mısır'dır.
+USA'de en yüksek hava kirliliğine sahip şehir Oakridge'dir.
+USA'de en düşük hava kirliliğine sahip şehir Terryville'dir.
+Japonya'de en yüksek hava kirliliğine sahip şehir Kasaoka'dir.
+Japonya'de en düşük hava kirliliğine sahip şehir Shingu'dir.
+Çin'de en yüksek hava kirliliğine sahip şehir Hotan'dir.
+Çin'de en düşük hava kirliliğine sahip şehir Rikaze'dir.
+Kanada'de en yüksek hava kirliliğine sahip şehir Clearwater'dir.
+Kanada'de en düşük hava kirliliğine sahip şehir Powell River'dir.
+Almanya'de en yüksek hava kirliliğine sahip şehir Meppen'dir.
+Almanya'de en düşük hava kirliliğine sahip şehir Schwabische Alb'dir.
+Hindistan'de en yüksek hava kirliliğine sahip şehir Bhiwadi'dir.
+Hindistan'de en düşük hava kirliliğine sahip şehir Tarakeswar'dir.
+İngiltere'de en yüksek hava kirliliğine sahip şehir Faversham'dir.
+İngiltere'de en düşük hava kirliliğine sahip şehir Milngavie'dir.
+Avustralya'de en yüksek hava kirliliğine sahip şehir Ludmilla'dir.
+Avustralya'de en düşük hava kirliliğine sahip şehir Cockburn'dir.
+İspanya'de en yüksek hava kirliliğine sahip şehir Puebla de Alfinden'dir.
+İspanya'de en düşük hava kirliliğine sahip şehir Castello de la Plana'dir.
+Tayland'de en yüksek hava kirliliğine sahip şehir Chaloem Phra Kiat'dir.
+Tayland'de en düşük hava kirliliğine sahip şehir Mak'dir.
+2022'de en yüksek hava kirliliğine sahip şehir Pakistan'ın Lahore şehridir.
+2022'de en düşük hava kirliliğine sahip şehir USA'ın Terryville şehridir.
+2021'de en yüksek hava kirliliğine sahip şehir Hindistan'ın Darbhanga şehridir.
+2021'de en düşük hava kirliliğine sahip şehir Avustralya'ın Moree şehridir.
+2020'de en yüksek hava kirliliğine sahip şehir Çin'ın Hotan şehridir.
+2020'de en düşük hava kirliliğine sahip şehir Avustralya'ın Ouyen şehridir.
+2019'de en yüksek hava kirliliğine sahip şehir Hindistan'ın Ghaziabad şehridir.
+2019'de en düşük hava kirliliğine sahip şehir USA'ın Waimea şehridir.
